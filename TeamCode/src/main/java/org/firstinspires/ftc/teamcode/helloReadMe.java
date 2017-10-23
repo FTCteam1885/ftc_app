@@ -6,4 +6,6 @@ package org.firstinspires.ftc.teamcode;
 
 public class helloReadMe {
 }
-//hi
+/*
+here we can update code and share it so we can code faster 
+ */
